@@ -1,1 +1,1 @@
-Basic web example
+Basic, styleless web example
